@@ -61,7 +61,7 @@ h3 {
   outline: 0;
 }
 .btn:hover {
-  /* color: aquamarine; */
+  color: aquamarine;
   background-color: blue;
   font-weight: 600;
   transform: scale(1.025);
